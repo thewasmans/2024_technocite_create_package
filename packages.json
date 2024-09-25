@@ -1,0 +1,13 @@
+{
+    "name": "com.thewasmans.awesomeprojectcreator",
+    "version": "1.0.0",
+    "displayName": "Awesome Project Creator",
+    "description": "This is Awesome Project Creator",
+    "unity": "2022.3.45f1",
+    "unityRelease": "0b5",
+    "author": {
+      "name": "The Wasmans",
+      "email": "thewasmans@gmail.com",
+      "url": "thewasmans.com"
+    }
+}
