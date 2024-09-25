@@ -1,3 +1,7 @@
+## [1.0.1] - 2024-09-25
+### Rename packages.json to package.json
+- Remove s to package.json file
+
 ## [1.0.0] - 2024-09-25
 ### First Release
 - Includes a tool allowing you to create you Project Structure
